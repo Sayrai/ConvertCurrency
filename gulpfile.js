@@ -3,8 +3,8 @@ var gulp = require('gulp'),
 
 gulp.task('connect', function() {
     connect.server({
-        root: 'src',
-        port: 3333
+        root: '/',
+        port: 4040
     });
 });
 
