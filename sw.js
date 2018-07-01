@@ -3,8 +3,8 @@ let cacheName = 'currencyConverter-v1';
 let filesToCache = [
     './',
     './index.html',
-    './js/app.js',
-    './css/style.css',
+    './src/js/app.js',
+    './src/css/style.css',
     'https://fonts.googleapis.com/css?family=Open+Sans:300,400,700',
     'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css',
     'https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css'
