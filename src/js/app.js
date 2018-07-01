@@ -21,8 +21,7 @@ let getCurrencies = () => {
 }
 
 let getResponse = (url) => {
-    //I'm using this because for some reason I couldn't figure out
-    //why fetch() has refused to work as expected within this file
+    // fetch() has refused to work as expected in this file
     return new Promise((resolve, reject) => {
 
         let xhr = new XMLHttpRequest();

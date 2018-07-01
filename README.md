@@ -4,4 +4,4 @@
 2. 	Run npm install
 3. 	Run npm start
 
-Live site: 
+Live site: https://sayrai.github.io/ConvertCurrency/
